@@ -25,7 +25,12 @@ Nettoyage des données.
 
 - Jour 2 : Inférence statistique
 
+            -Matin : fin EDA
+- outliers
+- standardiser
+            -Aprem : Inférence 
 
+            
 - Jour 3 : Recherche de modèle adapté
 
 
